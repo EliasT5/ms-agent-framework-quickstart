@@ -1,0 +1,5 @@
+agent-framework
+mcp
+python-dotenv
+jupyter
+ipykernel

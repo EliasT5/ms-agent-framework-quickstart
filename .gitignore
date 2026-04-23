@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+unit-05-mcp-plugins/notes/
+unit-07-coding-agent/workspace/*
+!unit-07-coding-agent/workspace/.gitkeep
